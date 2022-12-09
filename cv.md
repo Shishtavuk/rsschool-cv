@@ -4,12 +4,18 @@
 ------------------------------------                                    -------------------------
 
 ## Contact 
-Phone: +7 999 970 09 37 (Russian) 
-       + 90 534 527 17 43 (Turkish)                                       
-Telegramm: [@killamachilla](https://t.me/killamachilla) 
-Discord: @Shishtavuk
-Email: [artur.meroncev.91@gmail.com](artur.meroncev.91@gmail.com)       
-GitHub [@Shishtavuk](https://github.com/Shishtavuk)
+Phone: +7 999 970 09 37 (Russian)  
+
+       + 90 534 527 17 43 (Turkish)  
+
+Telegramm: [@killamachilla](https://t.me/killamachilla)  
+
+Discord: @Shishtavuk  
+
+Email: [artur.meroncev.91@gmail.com](artur.meroncev.91@gmail.com)   
+
+GitHub [@Shishtavuk](https://github.com/Shishtavuk)  
+
 
 -----------------------------------------------------------------------------------------------------------------
 
