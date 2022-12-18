@@ -26,12 +26,12 @@ html {
     border: 2px solid snow;
   }
 
-  .container-header{
-    display: flex;
-    flex-direction: column-reverse;
-    flex-wrap: nowrap;
 
-  }
+ .container-header {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+ }
 
   .header-down {
     display: flex;
